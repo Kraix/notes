@@ -1,4 +1,4 @@
-## IDEA NR.1
+### IDEA NR.1
 Use reinforcement learning(either DQN, A3C, PPO or something else...) to directly optimize the weights of a model of an agent or an standalone model(like an convolutional neural network for Dog breed classification).
 Like in https://arxiv.org/abs/2001.09212 the optimization algorithm(the RL algorithm) will move over the weights(the weights will be represented like tiles) and the avaiable actions will modify the weights in place.
 In other words: the optimization agent will move over the weights tiles in different directions and will either modify the weight/weights in place or move to another weights tile until the target score/value is met.

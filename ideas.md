@@ -5,4 +5,4 @@ In other words: the optimization agent will move over the weights tiles in diffe
 The RL agent can choose between the following actions: move to direction(where the direction is defined by the dimension of the weigth tensor, in a 2D weight tensor the actions are go UP, DOWN, LEFT, RIGTH), replace or modify weight value(the weights will be modified with discrete variables/values like modify the weight value by adding/substracting/multiplying the number 1 or 0.5 with the weight value)
 The RL optimization agents will be nested, so the first RL agent/model optimizes the weights of the seconds RL agent/model who will optimize the weights of the next agent/model, until the last agent/model is the final target of the optimization and as such is directly used in an environment or program.
 
-  
+The input of the RL optimizer are the weights of the, to be optimized model.

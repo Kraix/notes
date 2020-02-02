@@ -1,0 +1,32 @@
+For the people (from future) reading this from the Arctic Code Vault,
+i hope that AI has brought you great prosperity.
+I don't know in which year you created Artificial General Intelligence(AGI),
+most people thought that it will be created in this century (the 21th century),
+my bet was that humanity creates AGI before the year 2040.
+
+AI in my age was still in its infancy,
+some techniques were in the last few years massively widespread,
+[Deep learning]: Deep Neural Networks(Dense,Convolutional,Recurrent, Transformers, mixed, etc.) were the most popular.
+The most significant Natural Language Processings models were GPT-2 and BERT,
+but they still lacked something, they couldn't process large input sequences - they were limited by token size,
+there was no online learning applied, I have yet to see a Transformer with online learning.
+There was no sign of Strong AI, i think that either DeepMind,Googl Brain or OpenAI will develop it.
+The most common problems in training neural networks/models were overfitting(no generalization) and catastrophic forgetting.
+
+Other things:
+  SpaceX will launch it's StarLink satellite internet service this year(2020),
+  i am curious how the internet in your year/age looks like, how you are interconnected, 
+  what technologies you use, is the StarLink network online or not?, etc.
+  
+I still can't imagine how coding(if this still exist) looks like in your age/year,
+are the only coders left AI? If you(humans) still code/develop, what programming languages and tools do you use?
+My favorite programming language was Python3.
+
+Since i won't get an answers to my questions i make it short, 
+the time/age i lived in was full technological breakthroughs and advances especially in AI,
+even if it didn't lead to AGI for now.
+
+I hope you all stay well, at least.
+
+Thank you for reading this,
+  Sincerely, Kraix
